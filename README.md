@@ -12,5 +12,7 @@ Reference : https://towardsdatascience.com/neural-network-for-satellite-data-cla
 
 I can be reached by
 Gmail : tobyzawthuhtet@gmail.com
+
 Linkedin : https://www.linkedin.com/in/zaw-thu-htet-toby/
+
 Facebook : https://www.facebook.com/toby.zaw.1/
