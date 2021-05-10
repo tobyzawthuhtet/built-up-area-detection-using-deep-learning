@@ -1,6 +1,6 @@
 # built-up-area-detection-using-deep-learning
 
-Hi all, I am Toby. I just did a few buil-up-area detection using deep learning. I created maskfile aka label data by reclassifying google earth engine derived data into 1 and 0.
+Hi all, I am Toby. I just did a few buil-up-area detection from Multispectral remote sensing data (Sentinel 2)  using deep learning. I created maskfile aka label data by reclassifying google earth engine derived data into 1 and 0.
 
 P.s You can reclassify any of the landcover type by assigning desire data into 1 and the rest to zero thus creating a desired mask file. 
 
