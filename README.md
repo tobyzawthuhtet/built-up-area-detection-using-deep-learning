@@ -4,6 +4,10 @@ Hi all, I am Toby. I just did a few buil-up-area detection from Multispectral re
 
 P.s You can reclassify any of the landcover type by assigning desire data into 1 and the rest to zero thus creating a desired mask file. 
 
+## Prediciton Results 
+<img src="image/1.PNG" width="300" height="100" > 
+
+
 Please download training data from the below google drive links :
 
 https://drive.google.com/drive/folders/1D7yoTq9eBUgva98JdhPOScj7KPu7ePA4?usp=sharing
